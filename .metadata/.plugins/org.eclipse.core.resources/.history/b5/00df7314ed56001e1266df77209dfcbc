@@ -1,0 +1,22 @@
+package com.aurionpro.test;
+
+import com.aurionpro.model.IEmployee;
+import com.aurionpro.model.Manager;
+import com.aurionpro.model.Developer;
+import com.aurionpro.model.EmployeeDirectory;
+
+
+public class EmployeeTest {
+
+	public static void main(String[] args) {
+
+		IEmployee emp = new Developer("Umaid","CEO");
+		emp.showEmployeeDetails();
+		
+		System.out.println("---------------------");
+		
+		IEmployee emp1 = new Manager("Shaikh","HR");
+		emp1.showEmployeeDetails();
+	}
+
+}

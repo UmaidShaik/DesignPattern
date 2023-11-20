@@ -1,0 +1,13 @@
+package com.aurionpro.model;
+
+public class Manager implements IEmployee {
+private String name;
+private String position;
+	@Override
+	public void showEmployeeDetails() {
+		System.out.println("Name :"+name);
+		System.out.println("position :"+position);
+		
+	}
+
+}

@@ -1,0 +1,11 @@
+package com.aurionpro.model;
+
+public class Manager implements IEmployee {
+
+	@Override
+	public void showEmployeeDetails() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

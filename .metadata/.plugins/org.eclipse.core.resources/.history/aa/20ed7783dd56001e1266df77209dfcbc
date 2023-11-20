@@ -1,0 +1,22 @@
+package com.aurionpro.model;
+
+public class SmsNotifier implements INotifier{
+private Account ac;
+
+public SmsNotifier(Account ac) {
+	super();
+	this.ac = ac;
+}
+
+
+	@Override
+	public void notifyUser(Account account, double amount) {
+		
+		System.out.println("this account" +account.getName());
+		System.out.println("this account" +amount);
+
+
+	}
+
+
+}

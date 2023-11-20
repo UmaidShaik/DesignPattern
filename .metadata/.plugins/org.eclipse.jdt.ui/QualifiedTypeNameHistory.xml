@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.aurionpro.model.SingleTon"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.CarFactory"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.CarType"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.ICars"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.LaptopBuilder"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.IGadget"/>
+<fullyQualifiedTypeName name="java.util.stream.Collectors"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.Biscuit"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.Hat"/>
+<fullyQualifiedTypeName name="java.awt.List"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.IItems"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.HatAdapter"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.Laptop"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.HotelReception"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.ICarService"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.CarInspection"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.OilChange"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.WheelAlign"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.IHat"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.Standard"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.GoldenHat"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.RibonedHat"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.Premium"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.Account"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.SmsNotifier"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.IEmployee"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.Developer"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.Manager"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.ShoppingCart"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.PaymentStrategy"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.CreditCardPayment"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.PayPalPayment"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.OperationStretegy"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.AddOperation"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.MultiplyOperation"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.Employee"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.Consultant"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.ProxyInternet"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,14 @@
+package com.aurionpro.model;
+
+public class Developer implements IEmployee {
+	
+	private String name;
+	private String position;
+
+	@Override
+	public void showEmployeeDetails() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

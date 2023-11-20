@@ -1,0 +1,15 @@
+package com.aurionpro.model;
+
+public class SmsNotifier implements INotifier{
+
+
+	@Override
+	public void notifyUser(Account account, double amount) {
+		// TODO Auto-generated method stub
+		System.out.println("this account" +account);
+		System.out.println("this account" +amount);
+
+
+	}
+
+}

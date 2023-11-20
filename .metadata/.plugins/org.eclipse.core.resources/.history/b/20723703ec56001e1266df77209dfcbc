@@ -1,0 +1,26 @@
+package com.aurionpro.model;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class EmployeeDirectory implements IEmployee {
+	public List<IEmployee> employe;
+
+	public EmployeeDirectory(List<IEmployee> employee) {
+		super();
+		this.employe = new ArrayList<>();
+	}
+	
+	public void addEmployee(IEmployee employee) {
+		employe.add(employee);
+	}
+    public void removeEmployee(String name) {
+    	employe.remove(name);
+    }
+
+	@Override
+	public void showEmployeeDetails() {
+		// TODO Auto-generated method stub
+		
+	}
+}

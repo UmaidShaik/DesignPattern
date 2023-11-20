@@ -1,0 +1,18 @@
+package com.aurionpro.model;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class EmployeeDirectory {
+	public List<IEmployee> employe;
+
+	public EmployeeDirectory(List<IEmployee> employee) {
+		super();
+		this.employe = new ArrayList<>();
+	}
+	
+	public void addEmployee(IEmployee employee) {
+		employe.add(employee);
+	}
+
+}

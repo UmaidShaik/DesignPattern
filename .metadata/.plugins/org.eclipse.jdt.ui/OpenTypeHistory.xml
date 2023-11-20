@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+<typeInfo handle="=02-Factory-Pattern/src&lt;com.aurionpro.model{ICars.java[ICars" modifiers="513" timestamp="1694672128260"/>
+<typeInfo handle="=02-Factory-Pattern-Solution/src&lt;com.aurionpro.model{ICars.java[ICars" modifiers="513" timestamp="1694673744730"/>
+<typeInfo handle="=02-Factory-Pattern-Solution/src&lt;com.aurionpro.model{ICarFactory.java[ICarFactory" modifiers="513" timestamp="1694675540835"/>
+<typeInfo handle="=04-Adapter-pattern/src&lt;com.aurionpro.model{IItems.java[IItems" modifiers="513" timestamp="1694758879370"/>
+<typeInfo handle="=05-Facade-pattern/src&lt;com.aurionpro.model{IHotel.java[IHotel" modifiers="513" timestamp="1694950043694"/>
+<typeInfo handle="=05-Facade-pattern/C:\/Program Files\/Java\/jre1.8.0_191\/lib\/rt.jar=/javadoc_location=/https:\/\/docs.oracle.com\/javase\/8\/docs\/api\/=/&lt;java.awt.image(ImageProducer.class[ImageProducer" modifiers="1537" timestamp="1687853546880"/>
+<typeInfo handle="=05-Facade-pattern/src&lt;com.aurionpro.model{IMenu.java[IMenu" modifiers="513" timestamp="1694949850107"/>
+<typeInfo handle="=06-Decorator-pattern/src&lt;com.aurionpro.model{ICarService.java[ICarService" modifiers="513" timestamp="1695017380514"/>
+<typeInfo handle="=07-Decorator-2/src&lt;com.aurionpro.model{IHat.java[IHat" modifiers="513" timestamp="1695019413408"/>
+<typeInfo handle="=09-Composite -pattern/src&lt;com.aurionpro.model{IEmployee.java[IEmployee" modifiers="513" timestamp="1695123608316"/>
+<typeInfo handle="=10-Stretegy-pattern-2/src&lt;com.aurionpro.model{IOperation.java[IOperation" modifiers="513" timestamp="1695187774617"/>
+<typeInfo handle="=10-Strategy-pattern-3/src&lt;com.aurionpro.model{IRole.java[IRole" modifiers="513" timestamp="1695188640037"/>
+<typeInfo handle="=12-Proxy-pattern/C:\/Program Files\/Java\/jre1.8.0_191\/lib\/rt.jar=/javadoc_location=/https:\/\/docs.oracle.com\/javase\/8\/docs\/api\/=/&lt;org.omg.PortableInterceptor(InterceptorOperations.class[InterceptorOperations" modifiers="1537" timestamp="1687853546880"/>
+<typeInfo handle="=12-Proxy-pattern/src&lt;com.aurionpro.model{Internet.java[Internet" modifiers="513" timestamp="1695189978458"/>
+</typeInfoHistroy>
